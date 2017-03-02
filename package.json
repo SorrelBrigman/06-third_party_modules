@@ -1,0 +1,19 @@
+{
+  "name": "06-third_party_modules",
+  "version": "1.0.0",
+  "description": "Class exercise in third party node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorrelBrigman/06-third_party_modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorrelBrigman/06-third_party_modules/issues"
+  },
+  "homepage": "https://github.com/SorrelBrigman/06-third_party_modules#readme"
+}
