@@ -8,7 +8,7 @@ let { bgRed: rStripe, bgWhite: wStripe } = chalk;
 let {bgBlue: stars} = chalk.white;
 
 
-var x = '\u03A9';
+var x = '\u2606';
 
 let topStarString = ()=> {
   let myString = " "
